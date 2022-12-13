@@ -1,5 +1,5 @@
-### projet_test
+# projet_test
 
 ## test
 
-# note : ajouter un fichier .gitignore
+### note : ajouter un fichier .gitignore
