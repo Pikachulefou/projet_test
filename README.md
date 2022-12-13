@@ -2,4 +2,4 @@
 
 ## test
 
-note : ajouter un fichier .gitignore
+note : ...
